@@ -1,1 +1,1 @@
-# starwars-name
+# starwars-names
